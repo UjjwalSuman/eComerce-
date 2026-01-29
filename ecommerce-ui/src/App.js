@@ -1,8 +1,10 @@
+import ProductList from "./components/productList";
 
 function App() {
   return (
-    <div className="App">
-        <h1>Welcome to the E-commerce UI</h1>
+    <div style={{ padding: 20 }}>
+      <h2>E-Commerce Products</h2>
+      <ProductList />
     </div>
   );
 }
