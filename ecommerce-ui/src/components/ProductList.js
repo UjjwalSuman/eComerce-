@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import ProductCard from "./productCard";
+import ProductCard from "./ProductCard";
 import SearchBar from "./SearchBar";
 import SortDropdown from "./SortDropdown";
 
